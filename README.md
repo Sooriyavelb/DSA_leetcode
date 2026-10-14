@@ -11,4 +11,8 @@ sloving the leetcode problem and documenting it
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sooriyavelb/DSA_leetcode/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sooriyavelb/DSA_leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
